@@ -172,9 +172,9 @@ _________________________________________________
 
 # 5. Initial Product Backlog
 
-Backlog URL
+(https://swe-6733.atlassian.net/jira/software/projects/OUTTY/boards/1/backlog)
 
-🚩 TEAM DECISION REQUIRED
+
 
 ____________________________________
 
