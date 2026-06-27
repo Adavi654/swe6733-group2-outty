@@ -20,3 +20,12 @@ Project Name: Outty
 | April Breedlove  | Product Owner | Owns product vision and backlog priorities                    |
 | Antoine Davis    | Developer     | Builds and tests features                                     |
 | Mekonnen Kindo   | Developer     | Builds and tests features                                     |
+
+
+# 2. Documentation
+
+- Product Vision: product-vision.md
+- Backlog Prioritization Rationale: backlog-ordering-rationale.md
+- Definition of Ready: definition-of-ready.md
+- Product Backlog: product-backlog.md
+- Product Backlog (Jira): https://swe-6733.atlassian.net/jira/software/projects/OUTTY/boards/1/backlog?atlOrigin=eyJpIjoiNGE4Y2RmNWRlNThiNDYwOTkyNmU3NjMwNjMxNTQ4MTUiLCJwIjoiaiJ9
