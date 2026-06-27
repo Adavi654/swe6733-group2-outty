@@ -5,7 +5,7 @@ Outty is an outdoor adventure matching app developed by Group 2 for SWE 6733 usi
 
 Course: SWE 6733
 
-Team Name: Group 2
+Team Name: Trailblazers - Group 2
 
 Project Name: Outty
 
