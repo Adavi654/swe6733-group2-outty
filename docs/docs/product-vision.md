@@ -10,10 +10,10 @@ relationships through outdoor experiences and adventures.
 ### Near Vision
 
 Develop a Minimum Viable Product (MVP) that allows users to:
-- Register and log into the platform
+- Register and log in to the platform
 - Create and manage adventure profiles
 - Select adventure interests and skill levels
 - Discover nearby users with similar interests
-- Swipe right or left on possible adventure partners
+- Swipe right or left on possible adventure partners to show interest or disinterest
 - Generate matches when interest is mutual
 - Exchange messages with matched users
