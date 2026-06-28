@@ -10,9 +10,9 @@ A clear and concise description of the feature.
 ### 2. User Story
 Must follow the format:
 
-As a <user>,
-I want <goal>,
-So that <benefit>.
+As a **user**,
+I want **goal**,
+So that **benefit**.
 
 ### 3. Additional Details
 Acceptance criteria, technical notes, assumptions, or business rules.
