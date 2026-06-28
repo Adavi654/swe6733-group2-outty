@@ -1,6 +1,6 @@
 # Product Backlog Ordering Rationale
 
-The backlog is ordered according to business value, technical dependencies, and risk reduction
+The backlog is ordered according to business value, technical dependencies, and risk reduction:
 
 1. Authentication features are prioritized first , because every other feature requires user accounts.
 
