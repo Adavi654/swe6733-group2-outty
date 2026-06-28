@@ -1,6 +1,6 @@
 # Definition of Ready (DoR)
 
-A Product Backlog Item is considered Ready when it contains:
+A Product Backlog Item is considered "ready" when it contains:
 
 ## Required Elements
 
